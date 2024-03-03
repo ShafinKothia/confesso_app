@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": "C:\\Users\\Khalil\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "python.analysis.extraPaths": ["~/app"],
+  "python.languageServer": "Pylance",
+  "python.linting.enabled": false,
+  "python.linting.pylintEnabled": true,
+  "python.formatting.provider": "yapf"
+}
